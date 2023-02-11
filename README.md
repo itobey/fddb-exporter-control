@@ -9,7 +9,7 @@ use case already exists, I need to use a HTTP client to send the `POST` request 
 the service. This is quite impractical and thus the idea was born to create a mobile application for
 this and I got to learn about Flutter and mobile app development.
 
-See my `#todo` [blog post]() for details.
+See my [blog post](https://itobey.dev/index.php/building-a-mobile-app-with-flutter-for-the-fddb-exporter-backend/) for details.
 
 ## Demo
 
