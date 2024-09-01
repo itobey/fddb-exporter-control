@@ -3,6 +3,9 @@
 This is a Flutter application to control my backend
 service [FDDB Exporter](https://github.com/itobey/fddb-exporter).
 
+> [!WARNING]  
+> This app has not been updated to work with the re-design yet. Currently it's supported up to version 0.3.1 of the backend service.
+
 As I often forget to enter all the meals consumed throughout the day, the nightly export of the
 backend service misses the data when I enter the data the next day. Although an endpoint for this
 use case already exists, I need to use a HTTP client to send the `POST` request with the payload to
